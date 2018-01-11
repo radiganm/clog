@@ -1,0 +1,4 @@
+#+TITLE: clog
+#+AUTHOR: Mac Radigan
+
+ # *EOF* 

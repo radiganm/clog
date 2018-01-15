@@ -11,7 +11,8 @@
 
 namespace rad::log {
 
-  enum class Syslog_Priority {
+  enum class Syslog_Priority 
+  {
     Emerg   = LOG_EMERG,
     Alert   = LOG_ALERT,
     Crit    = LOG_CRIT,
